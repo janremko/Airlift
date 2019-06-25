@@ -1,0 +1,5 @@
+storage account: alsstandardstorage
+
+Key: 8shOTMULfBRQpykr8d3A5xCetLKQhZURCHMq6emOIDaAjpjHcqWuFFT0m8NwvwFymA0LmBLuJ6zg41WkinBnfA==
+
+Uploadfolder: fileupload
